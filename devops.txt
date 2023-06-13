@@ -1,0 +1,16 @@
+DevOps course curriculum
+
+Pre-requisites
+Linux and Shell
+Networking Basics
+
+Git and Github
+Jenkins 
+Maven
+Nexus 
+Tomcat 
+Sonarqube
+
+Docker 
+Dockerswarm
+Kubernetes
