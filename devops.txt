@@ -14,3 +14,8 @@ Sonarqube
 Docker 
 Dockerswarm
 Kubernetes
+Ansible
+Terraform
+Prometheus
+Grafana
+Jira
